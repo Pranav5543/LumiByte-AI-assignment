@@ -111,13 +111,13 @@ npm run dev
 ```
 ## Questions You Can Try:
 
-Show me the smartphone market stats for 2024.
-Give me global renewable energy production data for 2024.
-Show me the top financial market index performance for 2024.
-Show me the worldwide disease and health metrics for 2024.
-Give me e-commerce growth statistics for 2024.
-Show me football player stats for the 2024 season.
-Give me the latest cybersecurity threat statistics.
-Show me employment market trends for 2024.
-Give me global agriculture production data for 2024.
-Show me AI adoption statistics across industries.
+Show me the smartphone market stats for 2024. <br>
+Give me global renewable energy production data for 2024. <br>
+Show me the top financial market index performance for 2024. <br>
+Show me the worldwide disease and health metrics for 2024. <br>
+Give me e-commerce growth statistics for 2024. <br>
+Show me football player stats for the 2024 season.<br>
+Give me the latest cybersecurity threat statistics.<br>
+Show me employment market trends for 2024.<br>
+Give me global agriculture production data for 2024.<br>
+Show me AI adoption statistics across industries.<br>
