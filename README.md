@@ -95,6 +95,17 @@ Perfect for demonstrating **full-stack development skills**, clean architecture,
 
 ---
 
+⚙️ Installation & Running the Project
+🔹 Frontend Setup
+cd frontend
+npm install
+npm start
+
+🔹 Backend Setup
+cd backend
+npm install
+npm run dev
+
 ## Questions You Can Try:
 
 Show me the smartphone market stats for 2024.
