@@ -96,15 +96,15 @@ Perfect for demonstrating **full-stack development skills**, clean architecture,
 ---
 
 ⚙️ Installation & Running the Project
-🔹 Frontend Setup
-cd frontend
+## 🔹 Frontend Setup
+` cd frontend
 npm install
-npm start
+npm start `
 
-🔹 Backend Setup
-cd backend
+## 🔹 Backend Setup
+` cd backend
 npm install
-npm run dev
+npm run dev `
 
 ## Questions You Can Try:
 
